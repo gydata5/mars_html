@@ -52,5 +52,6 @@ import matplotlib.pyplot as plt
 Add animations 🌀
 Include more Mars facts 🔭
 Build a dynamic Mars quiz 🤔
+
 🤝 **Contributions**
 Contributions are welcome! Feel free to fork the repository and submit a pull request. Let's make Mars even more exciting together! 🤩
