@@ -7,10 +7,13 @@ Responsive Design 📱💻
 Mars-themed Aesthetics 🔴🪐
 Interactive Elements 🎮✨
 Educational Content 📚👨‍🚀
-🔧 Setup & Usage
-Clone the repository:
-using gitbash: 
+
+🔧 **Setup & Usage**
+
+**Clone the repository:**
+Using gitbash: 
 git clone https://github.com/gydata5/mars_html.git
+
 Open the index.html file in your favorite browser 🌐.
 
 Explore the wonders of Mars! 🔍🌌
