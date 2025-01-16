@@ -23,12 +23,12 @@ Explore the wonders of Mars! 🔍🌌
 from splinter import Browser
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-# requests
+# Requests
 import requests
 import time
-# parsing
+# Parsing
 from bs4 import BeautifulSoup
-# data science
+# Data Science
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -38,12 +38,12 @@ import matplotlib.pyplot as plt
 from splinter import Browser
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-# requests
+# Requests
 import requests
 import time
-# parsing
+# Parsing
 from bs4 import BeautifulSoup
-# data science
+# Data Science
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
